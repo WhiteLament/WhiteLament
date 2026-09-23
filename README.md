@@ -1,7 +1,6 @@
 <h1 align="center">              />
-        /
-*//////{<>==================-
-        \ \</h1>
+        
+=-------*{<>==================-</h1>
 <h3 align="center">Malice Weaver</h3>
 
 <h3 align="left">Connect with me:</h3>
