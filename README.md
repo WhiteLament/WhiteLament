@@ -1,11 +1,12 @@
 
 
+
 work in progress
 
-<img width="1935" height="1272" alt="Untitled309_20261007024208" src="https://github.com/user-attachments/assets/6993c086-10f2-4a9e-8f15-8765e2fcc495" />
+<img width="768" height="504" alt="Untitled309_20261007113808" src="https://github.com/user-attachments/assets/1be2be72-3dd3-4da6-afb6-4236800bf5a5" />
 
 
-<img width="1280" height="427" alt="Untitled311_20261007110735" src="https://github.com/user-attachments/assets/d7c63ef9-9bf7-434f-b99b-e7396093ad13" />
+<img width="1500" height="500" alt="Azureintro" src="https://github.com/user-attachments/assets/266e5fca-9833-4e80-8999-a212ec00de4d" />
 
 <div align="center">
 <a href="https://rentry.co/whitelament"><img width="150" height="150"  alt="Enstrangle" src="https://github.com/user-attachments/assets/c6ce9c87-559a-4b41-8674-46c7b3905360" /></a>
@@ -16,8 +17,7 @@ work in progress
 ## $${\color{purple}𝓡𝘦𝘯𝘵𝘳𝘺⠀⠀ ⠀ ⠀ ⠀𝓐𝘵𝘢𝘣𝘰𝘰𝘬  ⠀ ⠀⠀ ⠀𝓢𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦⠀  ⠀ ⠀⠀⠀⠀𝓡𝘢𝘯}$$ 
 
 
-<img width="1280" height="427" alt="Untitled311_20261007110730" src="https://github.com/user-attachments/assets/dbc9ab9d-a5a4-4f4b-90ae-57e08b25088b" />⠀⠀
-
+<img width="1280" height="427" alt="Untitled313_20261007115333" src="https://github.com/user-attachments/assets/f1bc896c-c794-484b-9a5c-003918252a4f" />
 
 
 
